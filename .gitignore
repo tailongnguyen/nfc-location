@@ -1,0 +1,7 @@
+build.sh
+run.sh
+*.py
+*.pyc
+*.pkl
+logs/
+Dockerfile
